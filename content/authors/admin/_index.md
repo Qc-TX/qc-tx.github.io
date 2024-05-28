@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 王宏超
+title: Qc
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hongchao Wang
 
 # Full name (for SEO)
 first_name: Hongchao
 last_name: Wang
 
 # Status emoji
-status:
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -20,51 +20,54 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master of Cybersecurity
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: SICHUAN UNIVERSITY
+    url: https://www.scu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:qc_tongxue@qq.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://github.com/qc-tx
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0007-7143-7508
+  - icon: brands/
+
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cyberspace Security
+  - Graph Neural Network
+  - Anomaly Detection
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MESc (Master of Cybersecurity)
+    institution: SiChuan University
+    date_start: 2025-06-31
+    date_end: 2022-09-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BES (Network Engineering)
+    institution: Southwest Minzu University 
+    date_start: 2017-09-01
+    date_end: 2021-06-31
     summary: |
       GPA: 3.8/4.0
 
@@ -72,24 +75,24 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  # - area: Master of Engineering()
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Penetration test engineer
+    company_name: DBAPPSecurity Ltd.
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2020-06-01
+    date_end: 2021-04-30
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -118,19 +121,19 @@ skills:
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
-      - name: SQL
+      - name: Penetration
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Badminton
         description: ''
-        percent: 60
+        percent: 99
         icon: person-simple-walk
       - name: Cats
         description: ''
