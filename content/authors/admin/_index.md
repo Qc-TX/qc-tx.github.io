@@ -57,7 +57,7 @@ interests:
 education:
   - area: MESc (Master of Cybersecurity)
     institution: SiChuan University
-    date_start: 2025-06-31
+    date_start: 2025-06-30
     date_end: 2022-09-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -67,7 +67,7 @@ education:
   - area: BES (Network Engineering)
     institution: Southwest Minzu University 
     date_start: 2017-09-01
-    date_end: 2021-06-31
+    date_end: 2021-06-30
     summary: |
       GPA: 3.8/4.0
 
